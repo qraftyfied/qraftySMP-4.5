@@ -1,0 +1,27 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2023-04-24 16:27:14 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2023-04-24 16:27:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:bamboo_jungle": "2023-04-24 16:27:15 +0200"
+    },
+    "done": false
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2023-04-24 16:27:14 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}
